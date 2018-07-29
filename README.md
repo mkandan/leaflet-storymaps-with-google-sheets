@@ -4,7 +4,8 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 ## Live links (replace with your own)
 - Map (mine/new) https://mkandan.github.io/leaflet-storymaps-with-google-sheets
 - Map (old) http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
+- Google Sheets template (mine/new) https://docs.google.com/spreadsheets/d/1vtIhGAmdVBCyNO4Q7U7Cs3zlkJA15U3m-T16EetYzy8/edit#gid=0
+- Google Sheets template (old) https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
 
 ## Create your own
 - See step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/storymaps/
